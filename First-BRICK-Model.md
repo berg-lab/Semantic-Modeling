@@ -7,11 +7,5 @@ Second, there are a few examples online to show the step by step process althoug
 * [Koh et al. (2017)](https://github.com/BuildSysUniformMetadata/brick-tutorial-buildsys2017/blob/master/1.%20Brick%20Composition.ipynb)
 * [Example 1 in the GitHub repository](https://github.com/BrickSchema/Brick/tree/master/examples/example1) 
 
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+# Tips 
+* Make sure the ttl file is located ...
