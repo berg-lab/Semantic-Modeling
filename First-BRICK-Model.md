@@ -29,7 +29,7 @@ There are many different tutorials and examples that can be used when getting st
 <div class="warning" style='background-color:#e8faca; color: #769642; border-left: solid #769642 4px; border-radius: 6px; padding:0.7em;'>
 <span>
 <p style='margin-top:0em; text-align:left'>
-<b>Tips</b></p>
+<b>:memo:  Tips</b></p>
 <p style='margin-left:1em; color: #1b1c1c'> 
 <ul>
 <li>Make sure that you have downloaded any necessary data files that are loaded in your code</li>
