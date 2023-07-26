@@ -26,7 +26,7 @@ The [Model Creation](https://nrel.github.io/BuildingMOTIF/tutorials/model_creati
 <div class="warning" style='background-color:#caddfc; color: #326abf; border-left: solid #326abf 4px; border-radius: 6px; padding:0.7em;'>
 <span>
 <p style='margin-top:0em; text-align:left'>
-<b>More Practice</b></p>
+<b>:heavy_check_mark: More Practice</b></p>
 <p style='margin-left:1em; color: #1b1c1c'> Try writing Python code to add a Brick <code>Air_Flow_Setpoint</code> to this model. Then, connect it to the AHU.</p>
 
 <details>
@@ -61,7 +61,7 @@ PS C:\Users\1sama\Desktop\BuildingMOTIF>
 <div class="warning" style='background-color:#caddfc; color: #326abf; border-left: solid #326abf 4px; border-radius: 6px; padding:0.7em;'>
 <span>
 <p style='margin-top:0em; text-align:left'>
-<b>More Practice</b></p>
+<b>:heavy_check_mark: More Practice</b></p>
 <p style='margin-left:1em; color: #1b1c1c'> Try writing a shape that requires the model to have a Brick <code>Air_Flow_Setpoint</code>.
 
 <details>
